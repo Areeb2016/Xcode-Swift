@@ -18,73 +18,11 @@
                 0
               ],
               "hasGroundPlane" : true,
-              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "identifier" : "D5CA23E1-3EDC-42B1-A5A5-4C049E4C949B",
               "material" : "concrete",
               "overrides" : {
                 "children" : {
-                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : {
-                    "overrides" : {
-                      "arguments" : [
-                        [
-                          "material",
-                          {
-                            "typeName" : "String",
-                            "value" : "steel"
-                          }
-                        ],
-                        [
-                          "type",
-                          {
-                            "typeName" : "String",
-                            "value" : "box"
-                          }
-                        ]
-                      ],
-                      "factory" : {
-                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PrimitiveShapeAssetFactory",
-                        "version" : "1.0"
-                      },
-                      "runtimeAttributes" : [
-                        [
-                          "RuntimeIdentifier",
-                          {
-                            "typeName" : "UUID",
-                            "value" : "3788A5B5-0388-488A-8304-7B90FEBA6FAC"
-                          }
-                        ],
-                        [
-                          "entityName",
-                          {
-                            "typeName" : "String",
-                            "value" : "Steel Box"
-                          }
-                        ]
-                      ]
-                    },
-                    "transform" : {
-                      "matrix" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0.05000000074505806,
-                        0,
-                        1
-                      ]
-                    }
-                  },
-                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
-                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
-                  "7569DA7B-4B12-4635-A497-BCDD21979A1F" : {
+                  "8997B677-29DA-498A-94BF-C1F96266E007" : {
                     "overrides" : {
                       "children" : {
                         "USDScene" : {
@@ -108,7 +46,7 @@
                                 "url",
                                 {
                                   "typeName" : "String",
-                                  "value" : "model:d3b9eb50e87ccc68406171c102e34b39\/scenei9w1jir19ukdc7s6.usdz"
+                                  "value" : "model:3d33dd3af7ebf9feddce89e8e832153f\/avocado-toast.usdz"
                                 }
                               ],
                               [
@@ -128,7 +66,7 @@
                                 "RuntimeIdentifier",
                                 {
                                   "typeName" : "UUID",
-                                  "value" : "358F9A95-2B7F-4DAA-92BA-6021B4D72C38"
+                                  "value" : "AAE9CB10-E805-4AF1-A582-906A537D7ED6"
                                 }
                               ]
                             ]
@@ -164,7 +102,7 @@
                           "RuntimeIdentifier",
                           {
                             "typeName" : "UUID",
-                            "value" : "C163C59A-AF5A-45B7-A2FC-D6607615CECF"
+                            "value" : "63D06454-13B7-49EA-9270-D9346D5ABB48"
                           }
                         ]
                       ]
@@ -184,34 +122,34 @@
                         1,
                         0,
                         0,
-                        0.83296000957489014,
-                        0.90945994853973389,
+                        0.0064199864864349365,
+                        0,
                         1
                       ]
                     }
                   },
-                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null
+                  "29151DA4-EC90-465D-BA20-6F28067843EC" : null
                 },
                 "factory" : null
               },
-              "title" : "Box",
+              "title" : "Scene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99999994039535522,
+                  0.86054736375808716,
+                  -7.4505805969238281e-09,
+                  0.50937032699584961,
                   0,
+                  0.20271797478199005,
+                  0.91739517450332642,
+                  -0.34247827529907227,
                   0,
+                  -0.46729409694671631,
+                  0.39797744154930115,
+                  0.78946191072463989,
                   0,
-                  0,
-                  0.80754852294921875,
-                  -0.58980095386505127,
-                  0,
-                  0,
-                  0.58980095386505127,
-                  0.80754852294921875,
-                  0,
-                  0,
-                  1.135667085647583,
-                  1.5549418926239014,
+                  -0.23633526265621185,
+                  0.40695804357528687,
+                  0.52983784675598145,
                   1
                 ],
                 "sceneTransform" : [

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		962A7A7723F3FA1800B19538 /* avocado-toast.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 962A7A7623F3FA1800B19538 /* avocado-toast.usdz */; };
 		9658C91C23C0BA0400E7EE00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9658C91B23C0BA0400E7EE00 /* AppDelegate.swift */; };
 		9658C91E23C0BA0400E7EE00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9658C91D23C0BA0400E7EE00 /* ViewController.swift */; };
 		9658C92023C0BA0400E7EE00 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 9658C91F23C0BA0400E7EE00 /* Experience.rcproject */; };
@@ -15,7 +16,6 @@
 		9658C92823C0BA0800E7EE00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9658C92623C0BA0800E7EE00 /* LaunchScreen.storyboard */; };
 		9658C93323C0BA0900E7EE00 /* BasicArTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9658C93223C0BA0900E7EE00 /* BasicArTests.swift */; };
 		9658C93E23C0BA0900E7EE00 /* BasicArUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9658C93D23C0BA0900E7EE00 /* BasicArUITests.swift */; };
-		96F0741123C0ED2E007892AC /* cake.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 96F0741023C0ED2E007892AC /* cake.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		962A7A7623F3FA1800B19538 /* avocado-toast.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "avocado-toast.usdz"; path = "../../USDZ Models/avocado-toast.usdz"; sourceTree = "<group>"; };
 		9658C91823C0BA0400E7EE00 /* BasicAr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasicAr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9658C91B23C0BA0400E7EE00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9658C91D23C0BA0400E7EE00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +51,6 @@
 		9658C93923C0BA0900E7EE00 /* BasicArUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasicArUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9658C93D23C0BA0900E7EE00 /* BasicArUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicArUITests.swift; sourceTree = "<group>"; };
 		9658C93F23C0BA0900E7EE00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		96F0741023C0ED2E007892AC /* cake.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = cake.usdz; path = ../../../Downloads/cake.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +103,8 @@
 			children = (
 				9658C91B23C0BA0400E7EE00 /* AppDelegate.swift */,
 				9658C91D23C0BA0400E7EE00 /* ViewController.swift */,
-				96F0741023C0ED2E007892AC /* cake.usdz */,
 				9658C91F23C0BA0400E7EE00 /* Experience.rcproject */,
+				962A7A7623F3FA1800B19538 /* avocado-toast.usdz */,
 				9658C92123C0BA0400E7EE00 /* Main.storyboard */,
 				9658C92423C0BA0800E7EE00 /* Assets.xcassets */,
 				9658C92623C0BA0800E7EE00 /* LaunchScreen.storyboard */,
@@ -236,7 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9658C92823C0BA0800E7EE00 /* LaunchScreen.storyboard in Resources */,
-				96F0741123C0ED2E007892AC /* cake.usdz in Resources */,
+				962A7A7723F3FA1800B19538 /* avocado-toast.usdz in Resources */,
 				9658C92523C0BA0800E7EE00 /* Assets.xcassets in Resources */,
 				9658C92323C0BA0400E7EE00 /* Main.storyboard in Resources */,
 			);
